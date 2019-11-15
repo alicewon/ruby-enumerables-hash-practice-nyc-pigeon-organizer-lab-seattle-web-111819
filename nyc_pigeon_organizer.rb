@@ -20,5 +20,3 @@ data.each do |color_gender_lives, value| #for each top-level key (color, gender,
 end
 pigeon_list_restructured #got it
 end
-
-
